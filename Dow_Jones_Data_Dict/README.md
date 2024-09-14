@@ -49,7 +49,7 @@ To compile and run the program, use the following commands:
 ```bash
 gcc -o djia_data_dictionary project3A.c
 ./djia_data_dictionary
-
+```
 Ensure that the data file named DJIA is present in the current directory before running the program.
 
 This project was created during my CS 212 course.
